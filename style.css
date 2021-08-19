@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    justify-content: center;
+    display: block;
+    font-style: oblique;
+    background-image: url("https://media.istockphoto.com/vectors/abstract-financial-background-vector-id483502058?k=6&m=483502058&s=170667a&w=0&h=TK4vTKkVHNmppSzDUCeIa3-GOBBm2QfY3xPiWYrTRQ8=");
+
+    font-size: xx-large;
+
+    color: wheat;
+}
+
+label {
+    display: block;
+    font-size: medium;
+    font-size: larger;
+}
+
+input {
+    padding: 1rem;
+    text-align: center;
+
+}
+
+button {
+    display: block;
+    padding: 1rem;
+    font-size: medium;
+   background-color: white;
+    border-radius: 2.5rem;
+    border-color: wheat;
+}
+
+main {
+    font-size: xx-large;
+}
+
+output {
+    font-size: larger;
+}
+.footer{
+    display: block;
+    text-align: right;
+}
