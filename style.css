@@ -38,7 +38,3 @@ main {
 output {
     font-size: larger;
 }
-.footer{
-    display: block;
-    text-align: right;
-}
